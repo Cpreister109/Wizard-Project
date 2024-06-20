@@ -1,0 +1,14 @@
+/Users/cadepreister/Desktop/C#/Methods-Project/bin/Debug/net8.0/Methods-Project
+/Users/cadepreister/Desktop/C#/Methods-Project/bin/Debug/net8.0/Methods-Project.deps.json
+/Users/cadepreister/Desktop/C#/Methods-Project/bin/Debug/net8.0/Methods-Project.runtimeconfig.json
+/Users/cadepreister/Desktop/C#/Methods-Project/bin/Debug/net8.0/Methods-Project.dll
+/Users/cadepreister/Desktop/C#/Methods-Project/bin/Debug/net8.0/Methods-Project.pdb
+/Users/cadepreister/Desktop/C#/Methods-Project/obj/Debug/net8.0/Methods-Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cadepreister/Desktop/C#/Methods-Project/obj/Debug/net8.0/Methods-Project.AssemblyInfoInputs.cache
+/Users/cadepreister/Desktop/C#/Methods-Project/obj/Debug/net8.0/Methods-Project.AssemblyInfo.cs
+/Users/cadepreister/Desktop/C#/Methods-Project/obj/Debug/net8.0/Methods-Project.csproj.CoreCompileInputs.cache
+/Users/cadepreister/Desktop/C#/Methods-Project/obj/Debug/net8.0/Methods-Project.dll
+/Users/cadepreister/Desktop/C#/Methods-Project/obj/Debug/net8.0/refint/Methods-Project.dll
+/Users/cadepreister/Desktop/C#/Methods-Project/obj/Debug/net8.0/Methods-Project.pdb
+/Users/cadepreister/Desktop/C#/Methods-Project/obj/Debug/net8.0/Methods-Project.genruntimeconfig.cache
+/Users/cadepreister/Desktop/C#/Methods-Project/obj/Debug/net8.0/ref/Methods-Project.dll
