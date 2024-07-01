@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cadepreister/Desktop/C#/Methods-Project/Methods-Project.csproj",
+      "projectUniqueName": "/Users/cadepreister/Desktop/C#/Wizard-Project/Methods-Project.csproj",
       "projectName": "Methods-Project",
-      "projectPath": "/Users/cadepreister/Desktop/C#/Methods-Project/Methods-Project.csproj",
+      "projectPath": "/Users/cadepreister/Desktop/C#/Wizard-Project/Methods-Project.csproj",
       "packagesPath": "/Users/cadepreister/.nuget/packages/",
-      "outputPath": "/Users/cadepreister/Desktop/C#/Methods-Project/obj/",
+      "outputPath": "/Users/cadepreister/Desktop/C#/Wizard-Project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cadepreister/.nuget/NuGet/NuGet.Config"
